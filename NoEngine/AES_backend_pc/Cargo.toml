@@ -1,0 +1,14 @@
+[package]
+name = "video_gui"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+aes = "0.7.5"
+ctr = "0.8"
+x25519-dalek = "1.2"
+hkdf = "0.12"
+hex = "0.4"
+rand = "0.7"
+sha2 = "0.10"
+
